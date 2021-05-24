@@ -1,0 +1,80 @@
+body{
+text-align:center;
+background-color:orange;
+background-repeat:no-repeat;  
+}
+#imae1{
+border-radius:50%;
+width:100px;  
+}
+h1{
+text-shadow:2px 2px #F8BBDO;
+font-size:30px;    
+}
+.menu{
+ position: fixed;
+background: black;
+z-index: 10;
+top:0px;
+right:10px;     
+font-family:cursive;
+curser:pointer;    
+color:floralwhite;    
+}
+#start{
+font-family: 'Roboto', sans-serif;    
+}
+#bio{
+font-family: 'Open Sans', sans-serif;
+}
+html{
+scroll-behavior:smooth;    
+}
+#imae1{
+border-radius:50%;
+width:100px;  
+}
+  
+}
+#contact a{
+text-shadow: none !important;
+text-decoration: underline !important;
+color: blue;   
+}
+
+#contact {
+background:aliceblue;
+}
+ a {
+text-decoration: none;
+color: blue;
+text-shadow: 2px 2px gainsboro;
+}
+#image1{
+width:275px;
+height:300px;    
+}
+#image2{
+width:275px;
+height:300px;    
+}
+#image3{
+width:275px;
+height:300px;    
+}
+#image4{
+width:275px;
+height:300px;    
+}
+#image5{
+width:275px;
+height:300px;    
+}
+#image6{
+width:275px;
+height:300px;    
+}
+#inspiration img{
+width:275px;
+height:300px;    
+}
